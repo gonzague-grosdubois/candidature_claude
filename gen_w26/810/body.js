@@ -1,0 +1,8 @@
+const letters={
+"LettreMotivation_SocieteGenerale_AnalysteQuantRisquesMarcheFixedIncome_LaDefense.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Analyste quantitatif risques de marché sur le périmètre fixed income au sein de Société Générale à La Défense. Rejoindre l'équipe de validation des modèles sur opérations de marché, étudier et valider les nouveaux modèles de valorisation des quants, analyser les nouveaux produits des traders, challenger les méthodes d'estimation des paramètres, détecter les risques de modèle et de complexité pour proposer des remédiations, puis rédiger les rapports de validation est exactement la façon dont je veux apprendre le risque de modèle sur les marchés de taux.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la modélisation des produits de taux, le pricing des dérivés, le calcul stochastique et la gestion quantitative des risques, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides pour comprendre un modèle de valorisation et ses limites. "+AI_FR+" Ces projets m'ont appris à tester un modèle avant de lui faire confiance, à questionner ses hypothèses et à implémenter des outils avec l'IA, ce que j'apporterais à la validation des modèles et à leur implémentation en interne.",
+"Mon parcours commercial m'a appris à présenter une conclusion de façon claire et argumentée. "+COM_FR,
+"Je suis disponible à partir de mars 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe de validation des modèles de Société Générale et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

@@ -1,0 +1,8 @@
+const letters={
+"LettreMotivation_CACIB_AssistantCommercialTradeFinance_Montrouge.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Assistant Commercial Trade Finance au sein de l'équipe ITB Origination Financial Institutions, région CEE CIS Afrique, de Crédit Agricole CIB à Montrouge. Gérer les demandes clients et les cotations, faire le lien avec le réseau international et les desks export, constituer les dossiers pour le comité d'affaires, traiter les due diligences et les requêtes de Sécurité Financière et de Conformité, puis préparer offres de financement indicatives, pitchs et dossiers de demande de crédit est exactement la façon dont je veux apprendre le financement du commerce international.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion quantitative des risques, la modélisation des produits de taux et l'IFRS, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides pour analyser une contrepartie et son environnement macroéconomique. "+AI_FR+" Ces projets m'ont appris à rechercher et structurer l'information de marché, à automatiser des reportings et à contrôler chaque chiffre avant de le présenter, ce que j'apporterais à vos dossiers de crédit et à vos reportings.",
+"Mon parcours commercial m'a appris à écouter un client et à traiter ses demandes avec rigueur. "+COM_FR,
+"Je suis disponible à partir de mars 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe ITB Origination Financial Institutions de Crédit Agricole CIB et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

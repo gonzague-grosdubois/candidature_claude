@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_Rothschild_BusinessDevelopment_Paris.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage de Business Development chez Rothschild & Co Martin Maurel à Paris. Préparer les propositions commerciales destinées aux prospects et aux clients, coordonner le banquier privé, le gestionnaire financier, l'ingénieur patrimonial, les équipes juridiques et la conformité, et contribuer au développement de l'offre de produits, de la gestion cotée aux produits structurés et aux Private Assets, est exactement le prolongement de ce que je fais aujourd'hui en gestion de patrimoine.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion de portefeuille, le pricing des dérivés et l'évaluation d'actifs, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides pour comprendre les produits proposés à une clientèle privée. "+AI_FR+" Ces projets m'ont appris à comparer des solutions d'investissement, à mesurer un risque et à présenter une recommandation claire, ce que j'apporterais à vos propositions commerciales.",
+"Mon parcours commercial m'a appris à conseiller, à convaincre et à coordonner plusieurs interlocuteurs. "+COM_FR,
+"Je suis disponible à partir de janvier 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe de Rothschild & Co Martin Maurel et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

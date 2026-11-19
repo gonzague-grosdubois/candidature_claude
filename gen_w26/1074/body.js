@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_GroupePremium_ConseilGestionActifs_Paris.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage de Conseil en Gestion d'Actifs au sein de Groupe Premium à Paris. Assister l'équipe Conseil et Gestion Institutionnelle dans les recommandations d'allocations tactiques, analyser des portefeuilles d'OPCVM, de produits structurés, d'immobilier et de non coté, rédiger des notes d'analyse et des reportings, préparer les supports des comités financiers et échanger avec les banques, sociétés de gestion et courtiers est exactement le travail que je veux apprendre auprès d'investisseurs institutionnels.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion de portefeuille, la gestion quantitative des risques et les normes IFRS, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en analyse de portefeuilles et de marchés. "+AI_FR+" Ces projets m'ont appris à analyser un portefeuille, à mesurer un risque et à présenter des chiffres clairs, ce que j'apporterais à vos notes d'analyse, à vos reportings et à vos projections budgétaires.",
+"Mon parcours commercial m'a appris à écouter, à structurer un échange et à conclure. "+COM_FR,
+"Je suis disponible à partir de mars 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Conseil et Gestion Institutionnelle de Groupe Premium et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

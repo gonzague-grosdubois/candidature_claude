@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_PKFArsilon_StagiaireRestructuring_Rennes.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage de Restructuring au sein de PKF Arsilon à Rennes. Établir le diagnostic des difficultés d'une entreprise, réaliser des analyses financières sous Excel, revoir des business plans, modéliser et challenger les prévisions du management, puis préparer les rapports et les datapacks présentés aux administrateurs et mandataires judiciaires, aux avocats, aux banques et aux actionnaires est exactement le travail de restructuring opérationnel et financier que je veux apprendre.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion quantitative des risques, l'IFRS et la gestion de portefeuille, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en analyse financière et en modélisation. "+AI_FR+" Ces projets m'ont appris à tester des hypothèses, à documenter un raisonnement chiffré et à le défendre, ce que j'apporterais à vos analyses de plans d'affaires et à la préparation des présentations aux partenaires financiers de vos clients.",
+"Mon parcours commercial m'a appris à écouter des interlocuteurs aux intérêts différents, à négocier et à conclure. "+COM_FR,
+"Je suis disponible à partir de février 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Restructuring de PKF Arsilon et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

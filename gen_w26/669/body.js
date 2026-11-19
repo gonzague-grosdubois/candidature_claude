@@ -1,0 +1,8 @@
+const DISPO="Je suis disponible à partir de janvier 2027 pour une durée de six mois.";
+const letters={"LettreMotivation_LaBanquePostale_AnalysteFinancementsStructuresImmobiliers_Paris.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Analyste Financements Structurés Immobiliers au sein de la Direction Financements d'Actifs Réels de La Banque Postale à Paris, dans le pôle Hôtellerie et Investisseurs Mid Caps. Aider au montage et à la rédaction des dossiers de crédit pour les comités, suivre le marché par classe d'actifs immobiliers, analyser l'activité des fonds d'investissement et des sociétés de gestion et appuyer l'exécution des transactions et des waivers, des due diligences aux conditions préalables et aux documents juridiques, est exactement la façon dont je veux apprendre le financement d'actifs.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie l'IFRS, la gestion de portefeuille et la gestion quantitative des risques, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en analyse financière et en lecture d'un dossier de crédit. "+AI_FR+" Ces projets m'ont appris à structurer une analyse, à vérifier mes hypothèses et à rédiger des synthèses claires, ce que j'apporterais à vos dossiers de comités et à votre suivi de marché.",
+"Mon parcours commercial m'a appris à négocier des transactions de montants significatifs et à en suivre la documentation. "+COM_FR,
+DISPO,
+"Je serais ravi de rejoindre le pôle Hôtellerie et Investisseurs Mid Caps de La Banque Postale et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

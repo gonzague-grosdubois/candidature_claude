@@ -1,0 +1,8 @@
+const letters={"LettreMotivation_CACIB_AnalysteCreditFinancementsStructuresLBOTMT_Montrouge.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Analyste Crédit au sein de l'équipe Financements Structurés LBO et TMT de Crédit Agricole CIB à Montrouge. Analyser les demandes des équipes d'origination, rédiger des opinions argumentées, majoritairement en anglais, à partir de la documentation financière et des due diligences, réaliser une première lecture complète des risques sur les dossiers TMT, puis présenter mon opinion en comité de crédit, aux côtés d'une équipe qui traite dix à quinze demandes par semaine, est exactement la manière dont je veux apprendre le métier du risque de crédit.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion quantitative des risques, la modélisation des produits de taux et les normes IFRS, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides pour lire un bilan, une structure de dette et un risque de contrepartie. "+AI_FR+" Ces projets m'ont appris à tester une hypothèse sur des données et à reconnaître quand elle ne tient pas, ce que j'apporterais aux travaux transverses de méthodologie, de backtesting et de revue de portefeuille.",
+"Mon parcours commercial m'a appris à écouter, à argumenter et à défendre une position face à une contrepartie. "+COM_FR,
+"Je suis disponible à partir de mars 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Financements Structurés LBO et TMT de Crédit Agricole CIB et me tiens à votre disposition pour un entretien afin de vous exposer plus en détail ma motivation.",
+...CLOSEFR]};

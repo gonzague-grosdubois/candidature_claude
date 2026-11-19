@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_Natixis_ChargeAffairesInfraEnergyFinance_Paris.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage de Chargé d'Affaires Infra et Energy Finance au sein de Natixis CIB à Paris. Construire des modèles financiers avec modules de dette et analyses de sensibilité, analyser les risques d'un projet qu'ils soient de crédit, commerciaux, juridiques, techniques ou environnementaux, rédiger des notes pour les comités, participer à la revue de la documentation financière et aux due diligences, puis suivre le KYC et la notation des clients est exactement le métier du financement de projets que je veux apprendre.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion quantitative des risques, les normes IFRS et la gestion de portefeuille, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en modélisation financière et en analyse du risque. "+AI_FR+" Ces projets m'ont appris à structurer un modèle, à tester ses hypothèses et à documenter mes résultats, ce que j'apporterais à vos modèles de financement et à vos analyses de sensibilité.",
+"Mon parcours commercial m'a donné le sens de la rigueur et du suivi d'un dossier. "+COM_FR,
+"Je suis disponible à partir de janvier 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Infra et Energy Finance de Natixis CIB et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

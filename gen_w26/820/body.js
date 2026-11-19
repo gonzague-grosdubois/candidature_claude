@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_Generali_AnalysteALMAllocationActifs_SaintDenis.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Actuaire Analyste ALM et Allocation Stratégique d'Actifs chez Generali France à Saint Denis. Contribuer à l'orientation stratégique d'actifs des portefeuilles Vie et Non Vie sous contrainte de budget de risque et de capital Solvabilité 2, suivre le risque de liquidité et de crédit, analyser les flux de liquidité et les capacités d'investissement à long terme, puis participer au développement du modèle ALM propriétaire et aux études pour les entités locales et le Groupe est exactement la façon dont je veux comprendre le pilotage d'un bilan d'assureur.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion quantitative des risques, la modélisation des produits de taux, la gestion de portefeuille et l'IFRS, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en allocation d'actifs et en mesure du risque. "+AI_FR+" Ces projets m'ont appris à structurer un modèle, à mesurer un risque et à tester une hypothèse avant de la défendre, ce que j'apporterais à vos études ALM et à l'évolution de votre modèle.",
+"Mon parcours commercial m'a donné le sens de la rigueur et des chiffres. "+COM_FR,
+"Je suis disponible à partir de janvier 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe ALM et Allocation Stratégique d'Actifs de Generali France et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

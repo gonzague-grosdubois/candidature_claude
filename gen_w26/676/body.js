@@ -1,0 +1,8 @@
+const letters={
+"LettreMotivation_GroupamaAssetManagement_AnalysteQuantitatifDataESG_Paris.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Analyste quantitatif Data ESG au sein de l'équipe Analyse Quantitative de la Direction de la Recherche de Groupama Asset Management à Paris. Analyser la qualité des données ESG, en contrôlant couverture, variations, cohérence et anomalies, contribuer aux modèles de scoring ESG, industrialiser des outils de contrôle, d'analyse et de visualisation, automatiser les processus, puis alimenter les simulations de portefeuilles, les analyses de risque et les signaux quantitatifs d'aide à la décision pour la gestion est exactement le travail où je veux mettre mes compétences au service de la gestion d'actifs.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion quantitative des risques, la gestion de portefeuille et le calcul stochastique, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en analyse de données financières. "+AI_FR+" Ces projets m'ont appris à contrôler la qualité d'un jeu de données, à automatiser un traitement et à tester un signal avant de lui faire confiance, ce que j'apporterais aux contrôles de données ESG, aux outils de visualisation et aux analyses de risque de portefeuille.",
+"Mon parcours commercial m'a donné le sens de la rigueur et des chiffres. "+COM_FR,
+"Je suis disponible à partir de janvier 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Analyse Quantitative de Groupama Asset Management et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

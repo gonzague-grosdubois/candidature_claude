@@ -1,0 +1,7 @@
+const letters={"CoverLetter_Natixis_TreasuryAssistantSales_Paris.docx":["Dear Mr Antonin,",
+"I am writing to apply for the Treasury Assistant Sales Internship at Natixis Corporate & Investment Banking in Paris. Supporting a Treasury that centralises short term financing for the group's entities and offers short term investment products to a wide range of investors, preparing activity reports and management presentations, booking trades with the team and working with the Back Office, and contributing to sales and business setup improvement projects is exactly the environment in which I want to spend my gap year.",
+P2EN,
+"My Master's 1 in Finance at ESSCA, where I study fixed income modelling, quantitative risk management and portfolio management, and my Bloomberg Market Concepts certification have given me solid foundations in financial markets and products. "+AI_EN+" These projects taught me to track a market daily, to build clear reporting in Excel and to check every figure before relying on it, which is the attention to detail I would bring to your activity reports, your trade bookings and your improvement projects.",
+"My commercial experience taught me to work with clients and with internal teams under pressure. "+COM_EN,
+"I am available from 4 January 2027 for a six month internship, as part of my gap year.",
+"I would be delighted to join the Natixis Treasury team and would welcome the opportunity of an interview.",...CLOSEEN]};

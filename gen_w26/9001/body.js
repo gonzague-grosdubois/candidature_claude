@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_CACIB_CoverageLargeFrenchCorporates_Montrouge.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage de Stagiaire Coverage Large French Corporates au sein de Crédit Agricole CIB à Montrouge. Réaliser des analyses financières et sectorielles sur les grands groupes français du CAC 40 et du SBF 120, participer au suivi des transactions, préparer des supports commerciaux comme les pitchs et les deal memos, suivre l'activité du portefeuille et collaborer avec les équipes M&A, Global Markets et financements structurés est exactement la manière dont je souhaite découvrir le métier de banquier coverage.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion de portefeuille, la gestion quantitative des risques et les normes IFRS, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en analyse financière et en lecture des marchés. "+AI_FR+" Ces projets m'ont appris à structurer des données, à tester une hypothèse avant de lui faire confiance et à synthétiser un résultat de façon claire, ce que j'apporterais à vos analyses de portefeuille et à la préparation de vos supports commerciaux.",
+"Mon parcours commercial m'a appris à écouter un client, à négocier et à conclure. "+COM_FR,
+"Je suis disponible à partir de mars 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Coverage Large French Corporates de Crédit Agricole CIB et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

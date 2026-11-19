@@ -1,0 +1,8 @@
+const DISPO_FR="Je suis disponible à partir du 1er mars 2027 pour une durée de six mois.";
+const letters={"LettreMotivation_SocieteGenerale_AnalysteIAAgentiqueAutomatisationStrategiesTrading_LaDefense.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Analyste IA Agentique sur l'automatisation de stratégies de trading au sein du Model Risk Management de Société Générale à La Défense. Étudier des systèmes d'agents IA capables de lire, interpréter, coder puis tester des stratégies issues de papiers de recherche, passer en revue la littérature, évaluer les frameworks agentiques open source et définir les métriques de performance des stratégies est exactement le sujet qui réunit ce que je pratique déjà, la recherche quantitative et l'IA.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion quantitative des risques, le calcul stochastique et la gestion de portefeuille, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides pour ce poste. "+AI_FR+" Ces projets, construits en dialogue constant avec des agents et des modèles de langage, m'ont appris à transformer une idée de recherche en backtest, à mesurer sa performance avec des métriques rigoureuses et à contrôler les résultats avant de les croire, ce que j'apporterais à votre système d'agents et à la documentation de vos résultats.",
+"Mon parcours commercial m'a donné le sens de la rigueur et de l'initiative. "+COM_FR,
+DISPO_FR,
+"Je serais ravi de rejoindre l'équipe Model Risk Management de Société Générale et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

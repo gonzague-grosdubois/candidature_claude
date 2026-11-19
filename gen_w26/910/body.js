@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_Eutelsat_AnalysteStrategieMA_IssyLesMoulineaux.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Analyste Stratégie et M&A chez Eutelsat à Issy les Moulineaux. Analyser les marchés de la connectivité satellitaire et le positionnement des concurrents, construire et challenger des business cases et des modèles financiers sous Excel, contribuer aux analyses d'acquisitions, de joint ventures et d'accords de coopération, puis rédiger des notes et des présentations pour la Direction Générale, le comité exécutif et le conseil d'administration est exactement le travail stratégique et financier que je veux apprendre au plus près des décisions d'un grand opérateur.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion de portefeuille, la gestion quantitative des risques et les normes IFRS, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en modélisation financière et en analyse de marché. "+AI_FR+" Ces projets m'ont appris à structurer une analyse, à tester un modèle avant de lui faire confiance et à présenter des résultats clairement, ce que j'apporterais à vos business cases et à vos notes destinées à la direction.",
+"Mon parcours commercial m'a appris à évaluer une opportunité, à négocier et à conclure. "+COM_FR,
+"Je suis disponible à partir de mars 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Stratégie et M&A d'Eutelsat et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

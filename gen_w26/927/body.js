@@ -1,0 +1,7 @@
+const letters={"CoverLetter_CACIB_SummerAnalystShippingFinance_NewYork.docx":["Dear Hiring Team,",
+"I am writing to apply for the Summer Analyst internship in Energy and Real Assets, Shipping Finance and Intermodal, at Credit Agricole CIB in New York. Preparing marketing presentations for client pitches, performing KYC checks, contributing to the structuring of new transactions through cash flow models, drafting credit files for the credit committee, analysing shipping and intermodal markets and following covenants and annual reviews is exactly the way I want to learn asset based lending.",
+P2EN,
+"My Master 1 in Finance at ESSCA, where I study derivative pricing, fixed income modelling and quantitative risk management, together with my Bloomberg Market Concepts certification, gave me solid foundations in financial analysis and markets. "+AI_EN+" These projects taught me to build cash flow style models, test them before trusting them and read a risk quickly, which I would bring to your credit files and market analyses.",
+"My commercial background taught me to listen to a counterparty, negotiate and document each deal, which is close to loan documentation and dealing with other lenders. "+COM_EN,
+"I am available from June to August 2027.",
+"I would be delighted to join the Shipping Finance team of Credit Agricole CIB in New York and remain at your disposal for an interview.",...CLOSEEN]};

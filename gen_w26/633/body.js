@@ -1,0 +1,8 @@
+const letters={
+"LettreMotivation_CACIB_AnalysteCoverageFondsInfraPE_Montrouge.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Analyste Coverage, sur les fonds d'infrastructure et de private equity, au sein de Crédit Agricole CIB à Montrouge. Comprendre la stratégie, l'activité et la situation financière des clients à travers des recherches et des analyses, assister aux réunions avec les lignes métiers Global Markets, M&A, Structured Finance et Leveraged Finance ainsi qu'aux réunions clients et en rédiger les comptes rendus, préparer des études sectorielles, des deal mémos et des notes de préparation, suivre l'activité du portefeuille, la performance, le budget et les demandes de partage de PNB, puis constituer les dossiers KYC est exactement la façon dont je veux découvrir le métier de banquier coverage auprès des fonds.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion de portefeuille, l'IFRS et la gestion quantitative des risques, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides pour lire la situation financière d'un client et d'un secteur. "+AI_FR+" Ces projets m'ont appris à structurer des données, à synthétiser rapidement une information dense et à défendre une conclusion chiffrée, ce que j'apporterais à vos études sectorielles, à vos deal mémos et au suivi du portefeuille.",
+"Mon parcours commercial m'a appris à comprendre un client, à documenter chaque opération et à tenir les délais. "+COM_FR,
+"Je suis disponible à partir de janvier 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Coverage Fonds d'Infrastructure et de Private Equity de Crédit Agricole CIB et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

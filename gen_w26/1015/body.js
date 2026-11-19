@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_Rothschild_AnalysteESGObligataire_Paris.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Analyste ESG Obligataire au sein de l'équipe Fixed Income de Rothschild & Co Asset Management à Paris. Assurer la veille sur les risques ESG des portefeuilles, des émetteurs non couverts par MSCI aux controverses et aux variations de note, approfondir les analyses ESG, dialoguer avec les émetteurs, suivre les nouvelles émissions comme les green bonds et participer à l'amélioration des outils d'analyse de performance ESG est exactement la façon dont je veux apprendre la gestion obligataire.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la modélisation des produits de taux, la gestion quantitative des risques et la gestion de portefeuille, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides sur le crédit et les marchés obligataires. "+AI_FR+" Ces projets m'ont appris à structurer des données, à automatiser un suivi et à tester une conclusion avant de la défendre, ce que j'apporterais à la surveillance des notes ESG et à vos outils de suivi.",
+"Mon parcours commercial m'a appris à écouter un interlocuteur et à documenter chaque décision. "+COM_FR,
+"Je suis disponible à partir de janvier 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Fixed Income de Rothschild & Co Asset Management et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

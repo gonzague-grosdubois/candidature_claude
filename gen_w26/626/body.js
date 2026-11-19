@@ -1,0 +1,9 @@
+const DISPO_FR="Je suis disponible à partir de janvier 2027 pour une durée de six mois.";
+const letters={
+"LettreMotivation_SocieteGenerale_AssistantSalesProduitsStructures_LaDefense.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Assistant Sales produits structurés au sein de la Banque Privée, équipe Cross Asset Solutions, de Société Générale à La Défense. Assurer la documentation pré trade et post trade, vérifier les supports réglementaires des émetteurs, rédiger les documents marketing au format PRIV, améliorer les outils de passage d'ordre et de pricing, simuler et valoriser les produits selon les scénarios de marché, calculer les TRAA lors des lancements de campagne, suivre le mix produits et alimenter la veille avec des alertes de marché et des idées d'investissement rédigées avec la recherche est exactement la façon dont je veux apprendre le métier de sales sur les produits structurés.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie le pricing des dérivés, la modélisation des produits de taux et la gestion quantitative des risques, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides pour comprendre la construction et la valorisation d'un produit structuré. "+AI_FR+" Ces projets m'ont appris à simuler un payoff, à automatiser un suivi et à mettre en place des alertes sur des scénarios de marché, ce que j'apporterais à vos macros de suivi d'activité, à vos outils de pricing et à la rédaction de vos communications, en français comme en anglais.",
+"Mon parcours commercial m'a appris à documenter rigoureusement chaque opération et à répondre précisément à un client. "+COM_FR,
+DISPO_FR,
+"Je serais ravi de rejoindre l'équipe Cross Asset Solutions de la Banque Privée de Société Générale et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

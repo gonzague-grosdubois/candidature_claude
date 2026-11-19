@@ -1,0 +1,8 @@
+const letters={
+"LettreMotivation_AlvarezMarsal_PrivateEquityPerformanceImprovement_Paris.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage Private Equity Performance Improvement chez Alvarez & Marsal France à Paris. Construire des modèles financiers (compte de résultat, business plans, cash flows), analyser la performance et la création de valeur avant et après l'acquisition, soutenir les due diligences opérationnelles et commerciales à partir des data rooms et des KPI, imaginer des leviers de création de valeur appuyés sur l'IA et préparer les présentations destinées aux dirigeants est exactement le travail opérationnel auprès des fonds et de leurs participations que je recherche.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la gestion de portefeuille, la finance d'entreprise et la gestion quantitative des risques, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en modélisation et en analyse financière. "+AI_FR+" Ces projets m'ont appris à modéliser, à fiabiliser des données et à utiliser l'IA pour aller plus vite sans perdre en rigueur, ce que j'apporterais à vos modèles, à vos analyses de KPI et à vos démarches de création de valeur appuyées sur l'IA.",
+"Mon parcours commercial m'a appris à écouter, à négocier et à présenter des chiffres de façon claire. "+COM_FR,
+"Je suis disponible à partir de janvier 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe Private Equity Performance Improvement d'Alvarez & Marsal France et me tiens à votre disposition pour un entretien.",...CLOSEFR]};

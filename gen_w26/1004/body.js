@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_HSBC_AssistantTradingGlobalDebtMarketCashFinancing_Paris.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage d'Assistant Trading au sein du desk Cash Financing Solutions Repo de Global Debt Market chez HSBC Continental Europe à Paris. Assister les traders seniors sur le pricing des produits Repo, des Money Market Deposits et du FX, construire des outils d'aide à la décision, suivre les P&L et les réconcilier chaque jour avec le product control, et suivre les coûts liés à l'activité comme la réglementation CSDR est exactement la façon dont je veux entrer sur un desk de financement.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la modélisation des produits de taux, le pricing des dérivés et la gestion quantitative des risques, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides sur les marchés de taux et de financement. "+AI_FR+" Ces projets m'ont appris à suivre un P&L, à réconcilier des positions et à construire des outils avec l'aide de l'IA, ce que j'apporterais à vos pricers et à votre monitoring quotidien.",
+"Mon parcours commercial m'a appris à traiter des montants réels avec rigueur. "+COM_FR,
+"Je suis disponible à partir de janvier 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre le desk Cash Financing Solutions de HSBC et me tiens à votre disposition pour un entretien.",...CLOSEFR]};
