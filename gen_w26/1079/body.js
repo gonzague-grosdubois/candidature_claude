@@ -1,0 +1,7 @@
+const letters={"LettreMotivation_EDP_DeveloppementEnergiesRenouvelablesOrigination_Rodez.docx":["Madame, Monsieur,",
+"Je souhaite vous proposer ma candidature au stage de Chargé de développement énergies renouvelables junior au sein de l'équipe Origination d'EDP Renewables à Rodez. Participer à la recherche de nouveaux sites éoliens, analyser le potentiel énergétique des territoires avec des outils cartographiques et des données locales, contacter les collectivités et préparer les supports des rencontres avec les élus et les acteurs locaux est exactement la façon dont je veux contribuer à la transition énergétique.",
+P2FR,
+"Mon Master 1 Finance à l'ESSCA, où j'étudie la finance d'entreprise, la gestion quantitative des risques et l'IFRS, ainsi que ma certification Bloomberg Market Concepts, m'ont donné des bases solides en analyse financière de projets. "+AI_FR+" Ces projets m'ont appris à exploiter des données, à tester une hypothèse et à présenter clairement un résultat, ce que j'apporterais à l'analyse des sites potentiels et aux supports destinés aux collectivités.",
+"Mon parcours commercial m'a appris à aller vers les interlocuteurs, à écouter et à convaincre. "+COM_FR,
+"Je suis disponible à partir de mars 2027 pour une durée de six mois.",
+"Je serais ravi de rejoindre l'équipe de développement éolien d'EDP Renewables et me tiens à votre disposition pour un entretien.",...CLOSEFR]};
