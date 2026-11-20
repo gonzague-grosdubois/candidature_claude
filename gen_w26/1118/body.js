@@ -1,0 +1,7 @@
+const letters={"CoverLetter_StateStreet_ModelRiskManagementQuantAnalyst_Boston.docx":["Dear Hiring Team,",
+"I am writing to apply for the Model Risk Management, Quantitative Analyst 2027 Summer Internship at State Street in Boston. Supporting regulatory compliance and gap analyses, including AI and GenAI model risk, coordinating audit and regulatory examinations, tracking findings and key operational indicators, maintaining the model inventory, automating governance workflows and contributing to executive reporting is exactly where my interest in quantitative models and risk meets my practical experience with AI tools.",
+P2EN,
+"My Master 1 in Finance at ESSCA, where I study quantitative risk management, stochastic calculus and derivative pricing, together with my Bloomberg Market Concepts certification, gave me solid foundations in how financial models are built and where they fail. "+AI_EN+" These projects taught me to validate a model against the data before trusting it and to document its limits, which I would bring to your model inventory, findings follow up and governance workflows.",
+"My commercial background taught me rigour, organisation and clear communication with counterparties. "+COM_EN,
+"I am available for a summer 2027 internship.",
+"I would be delighted to join the Model Risk Management team at State Street and remain at your disposal for an interview.",...CLOSEEN]};
